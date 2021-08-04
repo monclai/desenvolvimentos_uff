@@ -1,0 +1,13 @@
+exemplo:
+
+historial compilation:
+
+$ cobc -x HELLO.COB
+$ ./HELLO
+
+modern
+
+$ cobc -x -free hello.cob
+$ ./hello
+
+
