@@ -1,8 +1,0 @@
-nem sempre teremos controle sobre o tamanho do vetor.
--VETOR É ESTÁTICO.
-
-*Lista encadeada
-
-(i) cada elemento é um registro(struct).
-(ii)Esses elementos possuem um campo "info" e um campo "prox" (ponteiro
-para o próximo elemento.
